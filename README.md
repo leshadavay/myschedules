@@ -15,4 +15,4 @@ Storage used:
 
 Screenshot:
 
-![alt text] (https://github.com/leshadavay/myschedules/blob/master/screenshot.JPG)
+![screenshot](https://user-images.githubusercontent.com/50438745/74302670-abbfd680-4d9a-11ea-8b3f-57f1a1829e6b.JPG)
